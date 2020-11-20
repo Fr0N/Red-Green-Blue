@@ -1,0 +1,17 @@
+.container {
+  width: 40%;
+  height: 40%;
+  margin: auto;
+  padding: 10px;
+  display: flex;
+}
+
+.sliders {
+  flex: 0 0 50%;
+}
+
+#result {
+  flex: 0 0 50%;
+  border-radius: 10px;
+  box-shadow: 0 0 8px #aaaaaa;
+}
